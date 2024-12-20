@@ -46,7 +46,7 @@ pip install numpy pandas torch torchvision torchmetrics matplotlib seaborn plotl
 2. Запустите ноутбук Jupyter или Google Colab.
 3. Запустите файл все части кода в BotEmote.ipynb
 4. Используйте бота в Telegram
-
+https://t.me/BotEmote_bot
 
 ## Возможные улучшения
 1. Добавить больше данных для обучения, особенно для классов с меньшим количеством изображений.  
